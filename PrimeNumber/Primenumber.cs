@@ -8,7 +8,7 @@ namespace LogicalProblem
 {
     internal class Primenumber
     {
-            public void stopwatchprg()
+            public void PrimeNumberprg()
             {
                   int n, i, m=0, flag=0;    
                   Console.Write("Enter the Number to check Prime: ");    
