@@ -24,7 +24,7 @@
                 
                 case 2:
                     Primenumber prime = new Primenumber();
-                    prime.stopwatchprg();
+                    prime.PrimeNumberprg();
                     break;
                 case 3:
                     ReverseNumber reverse = new ReverseNumber();
